@@ -1,6 +1,7 @@
 {
-  "name": "Halim Portfolio",
-  "short_name": "Halim",
+  "name": "Steam - Developer Portfolio",
+  "short_name": "Steam",
+  "description": "Professional developer portfolio showcasing projects, skills, and experience",
   "icons": [
     {
       "src": "/favicon/web-app-manifest-192x192.png",
@@ -15,9 +16,10 @@
       "purpose": "maskable"
     }
   ],
-  "theme_color": "#ffffff",
-  "background_color": "#ffffff",
+  "theme_color": "#18181b",
+  "background_color": "#18181b",
   "display": "standalone",
   "start_url": "/",
-  "scope": "/"
+  "scope": "/",
+  "categories": ["developer", "portfolio", "business"]
 }
