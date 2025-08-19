@@ -1,5 +1,17 @@
 {
-  "name": "dev-portfolio",
+    "name": "steamdevportfolio-nextjs-frontend-app",
+    "description": "The Startup Landing Page Template.",
+    "author": "Halim Putra",
+    "license": "MIT",
+    "keywords": [
+        "nextjs",
+        "tailwindcss",
+        "framer-mmotion"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/bforbilly24/steamdevportfolio-nextjs-frontend-app"
+    },
   "version": "0.1.0",
   "private": true,
   "scripts": {
